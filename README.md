@@ -1,4 +1,4 @@
 INFO
 
 
-This is a mauter programn
+This is a amateur programn
