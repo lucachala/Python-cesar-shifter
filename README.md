@@ -7,3 +7,4 @@ If you use this project for youtube and this thing put my github and the reposit
 requirements:
 Python==3.9
 
+In the future I will create a program like that with a password with text for each caracter in the text to codificate
